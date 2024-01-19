@@ -32,7 +32,7 @@ void main() {
   final String hobby = "Gaming";
 
   final perkenalan = introduce(name, age, address, hobby);
-  print(perkenalan); // Menampilkan "Nama saya Agus, umur saya 30 tahun, alamat saya di Jln. Malioboro, Yogyakarta, dan saya punya hobby yaitu Gaming!"
+  print(perkenalan); 
 }
 
 // 4. Function Faktorial
