@@ -238,7 +238,7 @@ class HomeScreen extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Image.asset(
-                  "asstets/img/blibli.png",
+                  "assets/img/blibli.png",
                   height: 20,
                   width: 20,
                 ),
